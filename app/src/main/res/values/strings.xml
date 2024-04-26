@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Biodata</string>
+    <string name="name">Luvita Nur Azizza Ningrum</string>
+    <string name="alamat">Jompo Kulon RT 01 RW 03,Sokaraja,Banyumas\n</string>
+    <string name="agama">Islamm</string>
+    <string name="ttl">Banyumas,27 April 2004</string>
+    <string name="agm">Islam</string>
+    <string name="noHp">089637787669\n</string>
+    <string name="email">luvitanurazizzaningrum123@gmail.com</string>
+</resources>
